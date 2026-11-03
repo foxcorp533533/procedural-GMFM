@@ -1,0 +1,12 @@
+{
+	"title": "GM:FM Procedural Fight Scene (BSMod Melee & Gunfight)",
+	"type": "tool",
+	"tags": [ "movie", "scenic", "roleplay", "fun" ],
+	"ignore": [
+		"*.psd",
+		"*.vcproj",
+		"*.svn*",
+		".git*",
+		"GMFM_ref/*"
+	]
+}
